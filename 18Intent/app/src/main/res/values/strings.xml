@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="take_me_to_screen_1">take me to screen 1</string>
+</resources>

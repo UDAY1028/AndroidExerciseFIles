@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "708435694117",
+    "firebase_url": "https://myappie-87cb2.firebaseio.com",
+    "project_id": "myappie-87cb2",
+    "storage_bucket": "myappie-87cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708435694117:android:c4bc35d74d43f20395a5cc",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708435694117-30kti1j9p6l91f5d7daa8mjitraelsdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RdUKJ_lQdAzc5njRZ-kqJtoatXkh2nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708435694117-30kti1j9p6l91f5d7daa8mjitraelsdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708435694117:android:f3dff2bb81ddea7395a5cc",
+        "android_client_info": {
+          "package_name": "com.example.fireusersystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708435694117-30kti1j9p6l91f5d7daa8mjitraelsdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RdUKJ_lQdAzc5njRZ-kqJtoatXkh2nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708435694117-30kti1j9p6l91f5d7daa8mjitraelsdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708435694117:android:9f4528358af622dc95a5cc",
+        "android_client_info": {
+          "package_name": "com.example.rockpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708435694117-30kti1j9p6l91f5d7daa8mjitraelsdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RdUKJ_lQdAzc5njRZ-kqJtoatXkh2nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708435694117-30kti1j9p6l91f5d7daa8mjitraelsdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

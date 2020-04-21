@@ -1,0 +1,2 @@
+rootProject.name='SqLiteStudentRecord'
+include ':app'

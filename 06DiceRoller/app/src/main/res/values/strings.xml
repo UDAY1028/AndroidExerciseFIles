@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="todo">TODO</string>
+    <string name="tap_to_roll">Tap to Roll</string>
+    <string name="uday">Designed by UDAY</string>
+    <!--    <string name="todo">TODO</string>-->
+</resources>
